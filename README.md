@@ -4,7 +4,6 @@
 Demonstrate the difference in heap memory usage before and after applying
 the Singleton Design Pattern in Java.
 
-
 ## Before (Without Singleton)
 - Multiple DatabaseConnection objects created
 - High heap memory usage

@@ -1,4 +1,4 @@
-# Singleton Design Pattern – Memory Footprint Comparison
+# Singleton Design Pattern (Memory)
 
 ## Objective
 Demonstrate the difference in heap memory usage before and after applying

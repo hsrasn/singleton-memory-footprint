@@ -11,14 +11,13 @@ the Singleton Design Pattern in Java.
 Multiple DatabaseConnection objects created
 High heap memory usage
 
-![](./Screenshot%202026-02-18%20015221.png)
+![Screenshot 2026-02-18 015221.png](Screenshot%202026-02-18%20015221.png)
 
 ## After (With Singleton)
 Single DatabaseConnection instance
 Stable and lower heap memory usage
 
-![](./Screenshot%202026-02-18%20020047.png)
-
+![Screenshot 2026-02-18 020047.png](Screenshot%202026-02-18%20020047.png)
 
 ## Key Observation
 Although 10,000 references are created, only one object exists when using Singleton,
